@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 224B-FDC0
-
- Directory of C:\Users\Administrator\Desktop\Myprojects
-
-11/20/2017  06:13 PM    <DIR>          .
-11/20/2017  06:13 PM    <DIR>          ..
-11/20/2017  06:13 PM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  33,591,332,864 bytes free
+change1
